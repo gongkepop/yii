@@ -20,4 +20,3 @@ CREATE TABLE `author` (
   `author_wechat` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`author_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
