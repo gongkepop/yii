@@ -47,6 +47,13 @@ $config = [
             ],
         ],
 
+
+
+    ],
+    'modules' => [
+        'manager' => [
+            'class' => 'app\modules\manager\ManagerModule',
+        ]
     ],
     'params' => $params,
 ];

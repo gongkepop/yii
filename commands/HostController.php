@@ -44,7 +44,9 @@ class HostController extends Controller
         }
     }
 
+    protected function getMyHost2($domain = 'com'){
 
+    }
 
 
 }
