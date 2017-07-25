@@ -6,5 +6,19 @@
  * Date: 2017/7/24
  * Time: 10:39
  */
-echo 'hello world';
+echo '';
+?>
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+123
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        hello world
+
+    </section>
+    <!-- /.content -->
+</div>
 
